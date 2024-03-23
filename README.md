@@ -8,6 +8,7 @@
 <br>
 
 ## Features
+<<<<<<< HEAD
 
 > 1. Easily control music playback with keyboard shortcuts.
 > 
@@ -23,6 +24,19 @@
 ## Screenshots
 
 ![Music player in action, playing music.](screenshots/screenshot2.png)
+=======
+
+> 1. Easily control music playback with keyboard shortcuts.
+> 
+> 2. Adjust volume levels conveniently from the command line.
+> 
+> 3. Navigate through tracks in the playlist with ease.
+> 
+> 4. Get real-time information about the currently playing track, including its title, volume, and playback progress.
+> 
+
+<br>
+>>>>>>> 7d3f738 (deleted sceenshots & updating the Readme.md)
 
 ## Usage
 
