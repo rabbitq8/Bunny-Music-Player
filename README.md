@@ -7,15 +7,7 @@
 
 <br>
 
-<p style="font-size: 5px;">
-  The "Bunny Music Player" is a Python command-line tool for playing music. It offers keyboard shortcuts for playback control, volume adjustment, and track navigation. Users specify a directory for their music files, and the player provides track information and playback instructions.
-</p>
-
-<br>
-
 ## Features
-
-<br>
 
 > 1. Easily control music playback with keyboard shortcuts.
 > 
@@ -29,7 +21,6 @@
 <br>
 
 ## Screenshots
-<br>
 
 ![Music player in action, playing music.](screenshots/screenshot2.png)
 
@@ -82,4 +73,5 @@ e: Exit the player
 <br>
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+
+This project is licensed under the [MIT](LICENSE) License.
