@@ -3,7 +3,10 @@
 
 # Bunny Music Player
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/officicalalkhaldi/Bunny-Music-Player)
+[![Build Status](https://travis-ci.org/officicalalkhaldi/Bunny-Music-Player.svg?branch=master)](https://travis-ci.org/officicalalkhaldi/Bunny-Music-Player)
+[![Python Version](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/downloads/windows/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub Issues](https://img.shields.io/github/issues/officicalalkhaldi/Bunny-Music-Player.svg)](https://github.com/officicalalkhaldi/Bunny-Music-Player/issues)
 
 <br>
 
