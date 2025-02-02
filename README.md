@@ -6,7 +6,7 @@
 [![Build Status](https://travis-ci.org/officicalalkhaldi/Bunny-Music-Player.svg?branch=master)](https://travis-ci.org/officicalalkhaldi/Bunny-Music-Player)
 [![Python Version](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/downloads/windows/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Issues](https://img.shields.io/github/issues/officicalalkhaldi/Bunny-Music-Player.svg)](https://github.com/officicalalkhaldi/Bunny-Music-Player/issues)
+[![Github Issues](https://img.shields.io/github/issues/officicalalkhaldi/Bunny-Music-Player.svg)](https://github.com/officicalalkhaldi/Bunny-Music-Player/issues)
 
 <br>
 
@@ -30,7 +30,7 @@ git clone https://github.com/officicalalkhaldi/Bunny-Music-Player.git
 
 cd Bunny-Music-Player
 
-python music_cli.py --playlist <directory_path>
+python music_cli.py --playlist &lt;directory_path>
 
 ```
 
@@ -55,11 +55,9 @@ e: Exit the player
 
 ## Requirements
 
-```
-> Python 3.x
-> pip install rich
-```
-
+- python 3.x
+- pip install rich
+  
 <br>
 
 ## Contributing
@@ -73,4 +71,4 @@ e: Exit the player
 
 ## License
 
-- This project is licensed under the [MIT](LICENSE) License.
+- This project is licensed under the [mit](License) License.
