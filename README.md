@@ -3,10 +3,10 @@
 
 # Bunny Music Player
 
-[![Build Status](https://travis-ci.org/officicalalkhaldi/Bunny-Music-Player.svg?branch=master)](https://travis-ci.org/officicalalkhaldi/Bunny-Music-Player)
+[![Build Status](https://travis-ci.org/rabbitq8/Bunny-Music-Player.svg?branch=master)](https://travis-ci.org/rabbitq8/Bunny-Music-Player)
 [![Python Version](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/downloads/windows/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Github Issues](https://img.shields.io/github/issues/officicalalkhaldi/Bunny-Music-Player.svg)](https://github.com/officicalalkhaldi/Bunny-Music-Player/issues)
+[![Github Issues](https://img.shields.io/github/issues/rabbitq8/Bunny-Music-Player.svg)](https://github.com/rabbitq8/Bunny-Music-Player/issues)
 
 <br>
 
@@ -26,7 +26,7 @@
 ## Usage
 
 ```
-git clone https://github.com/officicalalkhaldi/Bunny-Music-Player.git
+git clone https://github.com/rabbitq8/Bunny-Music-Player.git
 
 cd Bunny-Music-Player
 
